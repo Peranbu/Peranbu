@@ -6,9 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peranbu&layout=compact)
 
- ## 📈 Yearly Contributions
+## 📈 Yearly Contributions
 
 ![Your Yearly Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Peranbu)
+
 
 
 ## 📈 Dashboard
